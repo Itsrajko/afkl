@@ -5,12 +5,12 @@
     },
 
     "server": {
-        "host": "localhost",
-        "port": 25565
+        "host": "188.40.168.100",
+        "port": 26713
     },
 
     "afkbot": {
-        "username": "AFKBot",
+        "username": "@Nedirajte bota",
         "password": "",
         "auth-method": "mojang"
     },
